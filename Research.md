@@ -7,7 +7,7 @@ categories: jekyll update
 
 I am interested in supernovae (SNe), the grand explosions marking the death of stars. The photo below is the famous example of a supernova remnant, Crab Nebula, taken by NASA’s Chandra satellite. It is believed to the remnant of SN 1054, a prototype of electron capture supernova (ECSN), proposed by Professor Ken’ichi Nomoto and others. My major effort has been understanding the origin of this type of SNe and the life of stars before exploding as ECSN.
 
-<img src="/assets/Crab_Nebula.jpg" width = "512" height "512" alt="Crab Nebula taken by NASA's Chandra Sattelite" align=center />
+<img src="./assets/Crab_Nebula.jpg" width = "512" height "512" alt="Crab Nebula taken by NASA's Chandra Sattelite" align=center />
 
 ### Ongoing projects:
   
