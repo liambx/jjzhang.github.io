@@ -1,32 +1,28 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
 # Permalinks
-permalink:           pretty
+permalink:        pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
-paginate:            1
-baseurl:             "http://joshuashzha.github.io/"
+title:            查帥(Shuai)
+tagline:          'Homepage'
+description:      'Astrophysics, Comedy'
+url:              http://joshuashzha.github.io
+baseurl:          "http://joshuashzha.github.io"
 
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-# About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:           'Shuai'
+  url:            
+
+paginate:         5
 
 # Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
+# version:          2.1.0
 
-# Gems
+github:
+  repo:          
+
 gems:
-  - jekyll-paginate
   - jekyll-gist
