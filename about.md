@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About 
-permalink: /about/
+title: Research
+permalink: /research/
 ---
 
 <img style='float: right' src="../content/Crab_Nebula.jpg" width = "30%" height = "30%" alt="Crab Nebula taken by NASA's Chandra Sattelite" >
