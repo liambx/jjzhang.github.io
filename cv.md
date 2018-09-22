@@ -1,6 +1,11 @@
 ---
-layout: page
+layout: barebones
+no_footer: true
+wide_layout: true
 title: CV 
+description: CV
+ios_app_name: CV
 ---
 
-My academic [CV](../content/szha_cv.pdf)
+<script type="text/javascript" charset="utf-8"> document.location.href = '../content/szha_cv.pdf'; </script>
+Forwards
