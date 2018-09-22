@@ -12,4 +12,4 @@ not use this directory or will anyway overwrite it when it generates
 the site on the server side.
 
 # Acknowledgement
-This website is based on the design of [Dr. Samuel Jones](swjones.github.io).
+This website is based on the design of [Dr. Samuel Jones](https://swjones.github.io).
