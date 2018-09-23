@@ -15,7 +15,7 @@ email: szha at phy.cuhk.edu.hk
 
 I work on stellar evolution and supernovae simulations. For my detailed research interest, please refer to the research page.
 
-I was born in Anhui province, China, which is famous for the beautiful Yellow Mountain.
+I was born in Anhui province, China, which is famous for the beautiful [Yellow Mountain](https://www.chinahighlights.com/huangshan/yellow-mountain/).
 
 photo: taken by an old friend Shantao Li at Saikong Beach, Hong Kong in 2010, which is one of my best memories.
 
