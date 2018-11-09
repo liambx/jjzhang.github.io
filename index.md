@@ -2,20 +2,21 @@
 layout: default
 ---
 
-<img style="float: right" src="content/szha_cover.jpg" height="40%" width="40%">
+<img style="float: right" src="content/jjzhang_cover.jpg" height="40%" width="40%">
 
-[//]: <img align="left" src="content/szha_cover.jpg" height="40%" width="40%">
+[//]: <img align="left" src="content/jjzhang_cover.jpg" height="40%" width="40%">
 
-[//]: <img style="float: left" src="content/szha_cover.jpg" height="40%" width="40%">
+[//]: <img style="float: left" src="content/jjzhang_cover.jpg" height="40%" width="40%">
 
-# Shuai Zha (查帥)
+# Jiajun Zhang (张佳骏)
 
-I am now a Ph.D. candidate under supervision of [MC Chu](http://www.phy.cuhk.edu.hk/people/chu.html) and [LM Lin](http://www.phy.cuhk.edu.hk/people/lin-lm.html) in [Department of Physics, the Chinese University of Hong Kong](http://www.phy.cuhk.edu.hk). My research projects were influenced greatly by MC's former Ph.D. student [SC Leung](http://member.ipmu.jp/shingchi.leung/) and in collaboration with Prof. [Ken Nomoto](http://supernova.astron.s.u-tokyo.ac.jp/index.html.en).  
-email: szha at phy.cuhk.edu.hk
+I am currently a Postdoc in [Shanghai Jiao Tong University](http://astro.sjtu.edu.cn/DaoLeft.aspx?navid=31&hassons=0&selfurl=0&fathernav=4), in collaborate with [Prof. Jun Zhang](http://astro.sjtu.edu.cn/DaoLeft.aspx?navid=31&hassons=0&selfurl=0&fathernav=4). My research focus on cosmology, large scale structure, dark matter and dark energy and N-body simulation. I am very familiar with N-body simulation code Gadget2 and several useful modification was made. I got my Ph.D in The Chinese University of Hong Kong, under the supervision of [Prof. Ming-Chung Chu](http://www.phy.cuhk.edu.hk/people/chu.html).
 
-I work on stellar evolution and supernovae simulations. For my detailed research interest, please refer to the research page.
+email: liamzhang at sjtu.edu.cn
 
-I was born in Anhui province, China, which is famous for the beautiful [Yellow Mountain](https://www.chinahighlights.com/huangshan/yellow-mountain/).
+My recent research is about building up proper tools for testing cosmological models beyond LCDM, i.e. Fuzzy Dark Matter, Interacting Dark Energy, Interacting Vacuum Energy, Modified Gravity, and more.
 
-photo: taken by an old friend Shantao Li at Saikong Beach, Hong Kong in 2010, which is one of my best memories.
+I live in Shanghai with my wife and my son.
+
+photo: me and my lovely son at home.
 

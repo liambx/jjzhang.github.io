@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SZha 
-permalink: /SZha/ 
+title: Jiajun Zhang
+permalink: /Jiajun/ 
 ---
-In my free time, I like reading books not constrained to science related. I like classical novels and my favourite is "圍城" (Fortress Besieged) by Zhongshu Qian (錢鐘書). I like outdoor activities such as basketball, swimming, and hiking. Chatting with friends with "left" thought is another habit. I also played quite some computer games earlier in the university, particularly DoTA and Three Kingdoms. I listened to older mandarin songs and Cantonese songs by Eason Chan and other singers. Now I am learning to enjoy classics by Beethoven, Mozart, or Wagner? I have always wished that I can play some musical instruments though never realized.
+I love my family, my wife, my son, my father and my mother. I don't have pretty much free time, since I need to take care of my son. But beyond that, I spent some time in comics and cartoons. I know how to play chinese flute, though I don't have time to practice anymore.

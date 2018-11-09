@@ -1,5 +1,5 @@
-# joshuashzha.github.io 
-Website of Shuai
+# jjzhang.github.io 
+Website of Jiajun
 
 Notes for using Jekyll and GitHub pages:
 
@@ -13,3 +13,4 @@ the site on the server side.
 
 # Acknowledgement
 This website is based on the design of [Dr. Samuel Jones](https://swjones.github.io).
+This website is also based on the original version of [Joshua Zha](https://joshuazha.github.io)
